@@ -1,4 +1,4 @@
-package screenmatch.models;
+package br.com.davi.screenmatch.models;
 
 public abstract class Obra {
     private String title;

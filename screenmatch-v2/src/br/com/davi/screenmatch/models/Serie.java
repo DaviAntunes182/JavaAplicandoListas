@@ -1,4 +1,4 @@
-package screenmatch.models;
+package br.com.davi.screenmatch.models;
 
 public class Serie extends Obra{
     private int seasons;

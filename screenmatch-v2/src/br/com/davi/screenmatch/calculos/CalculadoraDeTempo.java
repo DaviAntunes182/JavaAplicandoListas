@@ -1,4 +1,4 @@
-package screenmatch.calculos;
+package br.com.davi.screenmatch.calculos;
 
 import br.com.davi.screenmatch.models.Filme;
 import br.com.davi.screenmatch.models.Obra;

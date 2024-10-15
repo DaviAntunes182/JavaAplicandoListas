@@ -1,4 +1,4 @@
-package screenmatch.models;
+package br.com.davi.screenmatch.models;
 
 import br.com.davi.screenmatch.calculos.Classificavel;
 

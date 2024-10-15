@@ -1,4 +1,4 @@
-package screenmatch;
+package br.com.davi.screenmatch;
 
 import br.com.davi.screenmatch.calculos.CalculadoraDeTempo;
 import br.com.davi.screenmatch.calculos.Recomendacao;

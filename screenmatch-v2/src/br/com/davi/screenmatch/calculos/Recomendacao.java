@@ -1,4 +1,4 @@
-package screenmatch.calculos;
+package br.com.davi.screenmatch.calculos;
 
 public class Recomendacao {
 
